@@ -32,7 +32,7 @@ Start with Q, E, W. Max Q, W, E.
 
   * Another one bites the dust
 
-  Blue, Black Cleaver, Zhonya's, Hextech, Rabbadon's, Nashor's, Ludens
+  Blue, Black Cleaver, Liandry's, Hextech, Rylai's, Void Staff
 
 ### Beaten junglers
 
@@ -68,7 +68,7 @@ Start with Q, E, Q, W. Max Q, E, W.
 
 ### Builds
 
-  * Red then, Phantom Dancer, Guardian Angel, Duskblade, Blade of the Ruined King, Rapid Firecannon, Death's Dance
+  * Red then, Phantom Dancer, Black Cleaver, Duskblade, Infinty, Edge of Night/Guinsoo's
 
   Berserker's Grieves
 
@@ -244,7 +244,7 @@ Start with Q, W, E. Max W, Q, E.
 
 ### Builds
 
-  * Yellow, Blade of the Ruined King, Guardian Angel, Phantom Dancer, Duskblade, Infinity Edge, Guinsoo's
+  * Yellow, Blade of the Ruined King, Black Cleaver, Phantom Dancer, Duskblade, Infinity Edge, Guinsoo's
 
 ### Beaten junglers
 
@@ -274,7 +274,7 @@ Start with Q, W, E. Max W, E, Q.
 
 ### Builds
 
-  * Blue, Hextech, Liandry's, Rabbadon's, Morellonomicon
+  * Blue, Liandry's, Hextech, Rylai's, Black Cleaver, Void Staff
 
 ### Beaten junglers
 
@@ -304,11 +304,12 @@ Start with Q, E, Q, W. Max Q, E, W.
 
 ### Builds
 
-  * Blue, Hextech, Liandry's...
+  * Blue, Hextech, Liandry's, Rylai's, Black Cleaver, Void Staff
 
 ### Beaten junglers
 
   1. [Evelynn](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3157657731/230154849?tab=overview)
+  2. [Lee Sin](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3159357065/230154849?tab=overview)
 
   ---
 
@@ -330,14 +331,75 @@ __The Outlaw__
 
 ### Skills
 
-Start with Q, W, E. Max Q, E, W.
+Start with Q, W, E. Max Q, W, E.
 
 ### Builds
 
-  * Red, Phantom Dancer, Black Cleaver, Duskblade, Bloodthirster, Youmuu's, Death's Dance/Maw of Malmortius/Mercurial Scimitar/Blade of the Ruined King
+  * Red, Phantom Dancer, Black Cleaver, Duskblade, Bloodthirster, Youmuu's
 
 ### Beaten junglers
 
-  1. ...
+  1. [Xin Zhao](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3158698291/230154849?tab=overview)
+  2. [Amumu](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3158755728/230154849?tab=overview)
+
+  ---
+
+## Nidalee
+
+__The Bestial Huntress__
+
+![Nidalee](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Nidalee.png)
+
+[Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/nidalee/)
+
+### Runes
+
+#TODO
+
+### Masteries
+
+#TODO
+
+### Skills
+
+Start with Q, E, W. Max Q, E, W.
+
+### Builds
+
+  * Blue, Liandry's, Rylai's, Black Cleaver, Hextech, Void Staff...
+
+### Beaten junglers
+
+  1. [Lee Sin](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3159909055/230154849?tab=overview)
+
+  ---
+
+## Nidalee
+
+__The Boy Who Shattered Time__
+
+![Ekko](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Ekko.png)
+
+[Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/ekko/)
+
+### Runes
+
+#TODO
+
+### Masteries
+
+#TODO
+
+### Skills
+
+Start with Q, E, W. Max Q, W, E.
+
+### Builds
+
+  * Blue, Liandry's, Rylai's, Hextech, Nashor's Tooth, Void Staff...
+
+### Beaten junglers
+
+  1. [Warwick](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3160170631/230154849?tab=overview)
 
   ---
