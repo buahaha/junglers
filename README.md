@@ -24,15 +24,7 @@ Start with Q, E, W. Max Q, W, E.
 
 ### Builds
 
-  * Offensive
-
-  Blue then, Liandry's, Hextech Gunblade, Zhonya's, Rabbadon, Lich Bane, Luden's or Wormog's or Guardian Angel
-
-  Sorcerer's Shoes
-
-  * Another one bites the dust
-
-  Blue, Black Cleaver, Liandry's, Hextech, Rylai's, Void Staff
+  * Blue, Black Cleaver, Liandry's, Hextech, Rylai's, Void Staff
 
 ### Beaten junglers
 
@@ -48,7 +40,7 @@ Start with Q, E, W. Max Q, W, E.
 
 ## Yasuo
 
-__The unforgiven__
+__The Unforgiven__
 
 ![Yasuo](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Yasuo.png)
 
@@ -68,7 +60,7 @@ Start with Q, E, Q, W. Max Q, E, W.
 
 ### Builds
 
-  * Red then, Phantom Dancer, Black Cleaver, Duskblade, Infinty, Edge of Night/Guinsoo's
+  * Red then, Black Cleaver, Phantom Dancer, Duskblade, Infinty, Edge of Night/Guinsoo's
 
   Berserker's Grieves
 
@@ -80,48 +72,6 @@ Start with Q, E, Q, W. Max Q, E, W.
   4. Warwick
   5. Olaf
   6. [Master Yi](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3149031098/210003304?tab=overview)
-
----
-
-## Akali
-
-__The Fist of Shadow__
-
-![Akali](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Akali.png)
-
-[Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/akali/)
-
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
-### Skills
-
-Start with Q, E, Q, W. Max Q, E, W.
-
-### Builds
-
-  * Defensive
-
-  Green then, Hextech Gunblade, Nashor's Tooth, Guardian Angel, Youmuu's Ghostblade, Blade of the Ruined King, Wormog's Armor
-
-  * Offensive
-
-  Green then, Hextech Gunblade, Nashor's Tooth, Rabbadon's/Luden's, Duskblade, Blade of the Ruined King, Wormog's Armor
-
-  * New
-
-  Blue then, Liandry's, Hextech Gunblade, Zhonya's, Rabbadon, Lich Bane, Luden's or Wormog's or Guardian Angel
-
-### Beaten junglers
-
-  1. [Master Yi](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3150465756/210003304?tab=overview)
-
-  [![True Ninja Never Dies](http://img.youtube.com/vi/88m4VpcaLbQ/0.jpg)](https://www.youtube.com/watch?v=88m4VpcaLbQ)
 
 ---
 
@@ -153,38 +103,6 @@ Start with Q, W, E. Max Q, W, E.
   1. Riven
   2. [Zac](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3150428060/210003304?tab=overview)
   3. [Warwick](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3152835414/210003304?tab=overview)
-
----
-
-## Xayah
-
-#TODO
-
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
-### Skills
-
-Start with Q, E, W. Max Q, E, W.
-
-### Builds
-
-  * Speed
-
-  Yellow, Infinity, Guardian, Essence, Wormog's, Duskblade, Blade of the Ruined King
-
-  * Damage
-
-  Red, Youmuu's, Guardian, Death's, Duskblade, Wormog's or Infinity Edge
-
-### Beaten junglers
-
-  1. [Graves](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3152856022/210003304?tab=overview)
 
 ---
 
@@ -221,36 +139,6 @@ Start with W, E, E, Q. Max E, W, Q.
   1. [Nocturne](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3148760756/210003304?tab=overview)
 
 ---
-
-## Xin Zhao
-
-__The Seneschal of Demacia__
-
-![Xin Zhao](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/XinZhao.png)
-
-[Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/xinzhao/)
-
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
-### Skills
-
-Start with Q, W, E. Max W, Q, E.
-
-### Builds
-
-  * Yellow, Blade of the Ruined King, Black Cleaver, Phantom Dancer, Duskblade, Infinity Edge, Guinsoo's
-
-### Beaten junglers
-
-  1. [Lee Sin](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3149511974/210003304?tab=overview)
-
-  ---
 
 ## Fizz
 
@@ -344,37 +232,7 @@ Start with Q, W, E. Max Q, W, E.
 
   ---
 
-## Nidalee
-
-__The Bestial Huntress__
-
-![Nidalee](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Nidalee.png)
-
-[Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/nidalee/)
-
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
-### Skills
-
-Start with Q, E, W. Max Q, E, W.
-
-### Builds
-
-  * Blue, Liandry's, Rylai's, Black Cleaver, Hextech, Void Staff...
-
-### Beaten junglers
-
-  1. [Lee Sin](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3159909055/230154849?tab=overview)
-
-  ---
-
-## Nidalee
+## Ekko
 
 __The Boy Who Shattered Time__
 
@@ -403,3 +261,10 @@ Start with Q, E, W. Max Q, W, E.
   1. [Warwick](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3160170631/230154849?tab=overview)
 
   ---
+
+Wishlist
+
+1. Wukong
+2. Kha'Zix
+3. Vi
+4. Lee Sin
