@@ -1,5 +1,6 @@
 # Junglers
 
+![Junglers](junglers-logo.png)
 ___
 
 ## Katarina
