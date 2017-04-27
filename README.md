@@ -10,21 +10,13 @@ __The Sinister Blade__
 
 [Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/katarina/)
 
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
 ### Skills
 
-Start with Q, E, W. Max Q, W, E.
+Start with Q, E, W. Max Q, E, W.
 
 ### Builds
 
-  * Blue, Black Cleaver, Liandry's, Hextech, Rylai's, Void Staff
+  * Blue, Liandry's, Black Cleaver, Rylai's, Hextech, Void Staff
 
 ### Beaten junglers
 
@@ -45,14 +37,6 @@ __The Unforgiven__
 ![Yasuo](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Yasuo.png)
 
 [Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/yasuo/)
-
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
 
 ### Skills
 
@@ -75,37 +59,6 @@ Start with Q, E, Q, W. Max Q, E, W.
 
 ---
 
-## Lee Sin
-
-__The Blind Monk__
-
-![Lee Sin](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/LeeSin.png)
-
-[Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/leesin/)
-
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
-### Skills
-
-Start with Q, W, E. Max Q, W, E.
-
-### Builds
-  * Yellow then, Death's Dance, Guardian Angel or Black Cleaver, Duskblade of Drakhtarr, Wormog's Armor, Blade of the Ruined King, Guinsoo's Rageblade
-
-### Beaten junglers
-
-  1. Riven
-  2. [Zac](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3150428060/210003304?tab=overview)
-  3. [Warwick](http://matchhistory.euw.leagueoflegends.com/en/#match-details/EUW1/3152835414/210003304?tab=overview)
-
----
-
 ## Shaco
 
 __The Demon Jester__
@@ -114,25 +67,9 @@ __The Demon Jester__
 
 [Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/shaco/)
 
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
 ### Skills
 
 Start with W, E, E, Q. Max E, W, Q.
-
-### Builds
-
-  * Green, Hextech, Duskblade, Guardian Angel, Blade of the Ruined King, Youmuu's, Wormog's Armor or Black Cleaver
-
-  * New
-
-  Red, Black Cleaver, Hextech, Duskblade, Blade, Youmuu's, Death's Dance or Guardian or Wormog's
 
 ### Beaten junglers
 
@@ -147,14 +84,6 @@ __The Tidal Trickster__
 ![Fizz](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Fizz.png)
 
 [Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/fizz/)
-
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
 
 ### Skills
 
@@ -178,21 +107,9 @@ __The Widowmaker__
 
 [Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/evelynn/)
 
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
 ### Skills
 
 Start with Q, E, Q, W. Max Q, E, W.
-
-### Builds
-
-  * Blue, Hextech, Liandry's, Rylai's, Black Cleaver, Void Staff
 
 ### Beaten junglers
 
@@ -209,21 +126,9 @@ __The Outlaw__
 
 [Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/graves/)
 
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
 ### Skills
 
-Start with Q, W, E. Max Q, W, E.
-
-### Builds
-
-  * Red, Phantom Dancer, Black Cleaver, Duskblade, Bloodthirster, Youmuu's
+Start with E, Q, Q, W. Max Q, E, W.
 
 ### Beaten junglers
 
@@ -240,14 +145,6 @@ __The Boy Who Shattered Time__
 
 [Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/ekko/)
 
-### Runes
-
-#TODO
-
-### Masteries
-
-#TODO
-
 ### Skills
 
 Start with Q, E, W. Max Q, W, E.
@@ -262,9 +159,27 @@ Start with Q, E, W. Max Q, W, E.
 
   ---
 
+## Elise
+
+__The Spider Queen__
+
+![Elise](http://ddragon.leagueoflegends.com/cdn/6.24.1/img/champion/Elise.png)
+
+[Champion info](http://gameinfo.euw.leagueoflegends.com/en/game-info/champions/elise/)
+
+### Skills
+
+Start with W, Q, E. Max Q, W, E.
+
+### Beaten junglers
+
+  1. []()
+
+  ---
+
 Wishlist
 
 1. Wukong
 2. Kha'Zix
 3. Vi
-4. Lee Sin
+4. **Shaco**
